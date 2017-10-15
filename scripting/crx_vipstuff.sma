@@ -5,7 +5,7 @@
 #include <hamsandwich>
 
 #define PLUGIN_NAME "VIP Extras"
-#define PLUGIN_VERSION "2.2a"
+#define PLUGIN_VERSION "2.2.1"
 #define PLUGIN_AUTHOR "OciXCrom"
 
 #define MODELS_PATH "models/player"
